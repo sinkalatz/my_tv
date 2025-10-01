@@ -1,0 +1,9 @@
+{
+    "versionCode": 2,
+    "versionName": "1.1.1",
+    "apkUrl": "https://github.com/sinkalatz/my_tv/tree/main/releases/downloadv/1.1.1/app-release.apk",
+    "sha256": "d2ebfc70819b17feca4c7f61e2fe8654828b523be2e68f013a63cafeaa9368b6",
+    "notes": "UI polish, TV fullscreen, server labels, focus colors",
+    "force": false,
+    "updatedAt": 1730427900
+  }
