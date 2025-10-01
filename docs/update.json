@@ -1,9 +1,9 @@
 {
-    "versionCode": 2,
-    "versionName": "1.1.1",
-    "apkUrl": "https://github.com/sinkalatz/my_tv/tree/main/releases/downloadv/1.1.1/app-release.apk",
-    "sha256": "d2ebfc70819b17feca4c7f61e2fe8654828b523be2e68f013a63cafeaa9368b6",
-    "notes": "UI polish, TV fullscreen, server labels, focus colors",
-    "force": false,
-    "updatedAt": 1730427900
-  }
+  "versionCode": 3,
+  "versionName": "1.1.2",
+  "apkUrl": "https://github.com/sinkalatz/my_tv/releases/download/1.1.2/app-release.apk",
+  "sha256": "33713cf92eae72d5eac238b1996305271ad98ea31b0066abaccb7149e6c072a8",
+  "notes": "UI polish, TV fullscreen, server labels, focus colors",
+  "force": false,
+  "updatedAt": 1730427900
+}
