@@ -1,9 +1,9 @@
 {
-  "versionCode": 4,
-  "versionName": "1.1.4",
-  "apkUrl": "https://github.com/sinkalatz/my_tv/raw/refs/heads/main/releases/download/1.1.4/app-release.apk",
-  "sha256": "730a4cb699efa6d3968e35be38075618f6bd676dabfa1447b05b2712f41a8e6d",
-  "notes": "An updated version has been released. Download to enjoy enhancements and stability improvements. Version 1.1.4",
+  "versionCode": 5,
+  "versionName": "1.1.5",
+  "apkUrl": "https://github.com/sinkalatz/my_tv/raw/refs/heads/main/releases/download/1.1.5/app-release.apk",
+  "sha256": "c4112eefad2d9cd551009c49538dc446f50ebf83e008b6c07c36a841f1c53f1a",
+  "notes": "An updated version has been released. Download to enjoy enhancements and stability improvements. Version 1.1.5",
   "force": false,
-  "updatedAt": 1759311123
+  "updatedAt": 1764403549
 }
